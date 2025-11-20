@@ -21,3 +21,55 @@ This n8n AI Agent workflow automates the assignment submission, grading, and fee
 . Sending detailed results back to students via email
 
 All of this happens within seconds, ensuring fast, accurate, and standardized grading.
+
+# Workflow Steps
+
+### 1. Student Submission
+
+. Student fills a Google Form with:
+
+. Name
+
+. Email 
+
+. Class
+
+. Assignment link
+
+### 2. Google Sheets Trigger
+
+. Upon submission, n8n workflow is triggered automatically.
+
+. Workflow fetches all submission details.
+
+. Link Validation & Standardization
+
+. Checks if the assignment link is valid and accessible
+
+.Converts it to proper format to avoid unopened/invalid submissions
+
+##3 3. OCR Processing
+
+. Extracts text/data from PDF assignments
+
+. Ensures AI agent can read student work accurately
+
+### 4. AI Grading Agent
+
+. Receives assignment content + student info
+
+. Uses pre-configured system + user prompts to:
+
+. Check correctness
+
+. Provide marks
+
+. Suggest improvements
+
+. Generate detailed feedback
+
+### 5. Store & Notify
+
+Stores all results in Google Sheets
+
+Sends a full result email to the student automatically
