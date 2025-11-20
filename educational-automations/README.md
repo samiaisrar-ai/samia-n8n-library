@@ -48,7 +48,7 @@ All of this happens within seconds, ensuring fast, accurate, and standardized gr
 
 .Converts it to proper format to avoid unopened/invalid submissions
 
-##3 3. OCR Processing
+### 3. OCR Processing
 
 . Extracts text/data from PDF assignments
 
@@ -73,3 +73,16 @@ All of this happens within seconds, ensuring fast, accurate, and standardized gr
 Stores all results in Google Sheets
 
 Sends a full result email to the student automatically
+
+
+# Benefits
+
+. Fully automated grading in seconds
+
+. Reduces human error and grading time
+
+. Standardized feedback for all students
+
+. Keeps detailed records in Google Sheets
+
+. Easy to scale for large classes or multiple assignments
