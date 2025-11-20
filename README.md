@@ -12,9 +12,13 @@ Instead of providing ready-to-import JSON workflows, it contains:
 
 The goal is to showcase automation logic and real-world workflow design while keeping implementation details private.
 
+
+
 # 🎯 What You'll Find
 
 WhatsApp & customer-support agents
+
+AI Grading System for Education Sector
 
 E-commerce order & inventory automations
 
@@ -25,3 +29,20 @@ Google Sheets & API integration examples
 AI decision flows and logic maps
 
 Business case studies and before/after metrics
+
+
+# 🔒 Guardrails & Safety
+
+Each visual case study includes notes on guardrails applied inside workflows:
+
+Input validation and sanitization
+
+Restricted system prompts and minimized LLM context
+
+Rate limiting and retry/backoff strategies
+
+Approval steps for sensitive actions
+
+Environment-based API key handling
+
+Measures to reduce hallucination and unsafe outputs
