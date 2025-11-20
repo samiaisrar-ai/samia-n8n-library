@@ -60,7 +60,21 @@ The goal is to showcase automation logic and real-world workflow design while ke
 
 
 
+
+
 ### Note: This repo is intentionally non-distributable for production flows. Visual materials are shared for learning, portfolio, and client pitching while protecting implementation details.
 
+
+
+
+# 🧭 How to Use This Repo
+
+. Browse folders for domain-specific case studies (e.g., ecommerce, education).
+
+. Watch video demos to understand flow logic and handoffs.
+
+. Read architecture notes for observability & guardrails.
+
+. Contact Samia for custom builds or consultancy.
 
 
