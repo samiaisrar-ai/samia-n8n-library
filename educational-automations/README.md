@@ -1,88 +1,35 @@
-# AI Grading Agent — Case Study
-### Overview
+# 📚 Educational Automations Portfolio
 
-This n8n AI Agent workflow automates the assignment submission, grading, and feedback process for students in schools.
+Automation in the **education sector** can save time, increase accuracy, and improve learning outcomes. Across schools, colleges, and other educational institutions, automated workflows can help:
 
+- Collect assignments and submissions efficiently  
+- Grade assignments using AI  
+- Provide instant feedback to students  
+- Organize and manage student data  
+- Streamline administrative tasks  
 
+To demonstrate these possibilities, I created several educational automations using n8n workflows. Each automation is organized in its own subfolder. Click the links below to explore each workflow’s case study, video demo, screenshots, and notes.
 
+---
 
-### Instead of manual grading, this workflow handles:
+## ⚡ Available Educational Automations
 
-. Assignment submission via Google Form
+1. [AI Grading System](./ai-grading-system)
+   Automates student assignment submission, grading, and feedback generation.  
+   - Google Form submission → Google Sheets  
+   - OCR PDF extraction  
+   - AI-based grading & feedback  
+   - Email results to students  
 
-. Automatic extraction and validation of student data
+## 2. [Math Quiz Bot](./math-quiz-bot)  
+   Automates quiz distribution, answer collection, and scoring for math quizzes.  
 
-. OCR processing of submitted PDF assignments
+## 3. [Language Learning Agent](./language-learning-agent)  
+   Provides automated language exercises, corrections, and performance tracking.  
 
-. AI-based grading, feedback generation, and improvement suggestions
+## 4. [Homework Helper Bot](./homework-helper-bot)
+   Helps students organize homework, check submissions, and provide guidance automatically.  
 
-. Storing results in Google Sheets
+---
 
-. Sending detailed results back to students via email
-
-All of this happens within seconds, ensuring fast, accurate, and standardized grading.
-
-# Workflow Steps
-
-### 1. Student Submission
-
-. Student fills a Google Form with:
-
-. Name
-
-. Email 
-
-. Class
-
-. Assignment link
-
-### 2. Google Sheets Trigger
-
-. Upon submission, n8n workflow is triggered automatically.
-
-. Workflow fetches all submission details.
-
-. Link Validation & Standardization
-
-. Checks if the assignment link is valid and accessible
-
-.Converts it to proper format to avoid unopened/invalid submissions
-
-### 3. OCR Processing
-
-. Extracts text/data from PDF assignments
-
-. Ensures AI agent can read student work accurately
-
-### 4. AI Grading Agent
-
-. Receives assignment content + student info
-
-. Uses pre-configured system + user prompts to:
-
-. Check correctness
-
-. Provide marks
-
-. Suggest improvements
-
-. Generate detailed feedback
-
-### 5. Store & Notify
-
-Stores all results in Google Sheets
-
-Sends a full result email to the student automatically
-
-
-# Benefits
-
-. Fully automated grading in seconds
-
-. Reduces human error and grading time
-
-. Standardized feedback for all students
-
-. Keeps detailed records in Google Sheets
-
-. Easy to scale for large classes or multiple assignments
+> Click on any link to open the corresponding subfolder and explore the video demos, workflow screenshots, and detailed notes for each automation.
