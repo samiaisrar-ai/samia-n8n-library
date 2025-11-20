@@ -14,7 +14,7 @@ To demonstrate these possibilities, I created several educational automations us
 
 ## ⚡ Available Educational Automations
 
-1. [AI Grading System](./ai-grading-system)
+1. [AI Grading System](./ai-grading-system.md)
    Automates student assignment submission, grading, and feedback generation.  
    - Google Form submission → Google Sheets  
    - OCR PDF extraction  
