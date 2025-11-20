@@ -16,33 +16,33 @@ The goal is to showcase automation logic and real-world workflow design while ke
 
 # 🎯 What You'll Find
 
-WhatsApp & customer-support agents
+. WhatsApp & customer-support agents
 
-AI Grading System for Education Sector
+. AI Grading System for Education Sector
 
-E-commerce order & inventory automations
+. E-commerce order & inventory automations
 
-OCR / PDF extraction pipelines
+. OCR / PDF extraction pipelines
 
-Google Sheets & API integration examples
+. Google Sheets & API integration examples
 
-AI decision flows and logic maps
+. AI decision flows and logic maps
 
-Business case studies and before/after metrics
+. Business case studies and before/after metrics
 
 
 # 🔒 Guardrails & Safety
 
-Each visual case study includes notes on guardrails applied inside workflows:
+. Each visual case study includes notes on guardrails applied inside workflows:
 
-Input validation and sanitization
+. Input validation and sanitization
 
-Restricted system prompts and minimized LLM context
+. Restricted system prompts and minimized LLM context
 
-Rate limiting and retry/backoff strategies
+. Rate limiting and retry/backoff strategies
 
-Approval steps for sensitive actions
+. Approval steps for sensitive actions
 
-Environment-based API key handling
+. Environment-based API key handling
 
-Measures to reduce hallucination and unsafe outputs
+. Measures to reduce hallucination and unsafe outputs
