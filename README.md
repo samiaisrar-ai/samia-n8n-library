@@ -77,4 +77,13 @@ The goal is to showcase automation logic and real-world workflow design while ke
 
 . Contact Samia for custom builds or consultancy.
 
+#📬 Connect With Me
+
+Want a custom automation or consultancy? Message Samia!
+ — free initial guidance available.
+
+### Email : samiaxai@gmail.com
+
+Made with ❤️ by Samia Israr.
+
 
