@@ -13,8 +13,7 @@ Instead of providing ready-to-import JSON workflows, it contains:
 The goal is to showcase automation logic and real-world workflow design while keeping implementation details private.
 
 
-
-#  🎯 What You'll Find
+# 🎯 What You'll Find
 
 . WhatsApp & customer-support agents
 
@@ -77,7 +76,7 @@ The goal is to showcase automation logic and real-world workflow design while ke
 
 . Contact Samia for custom builds or consultancy.
 
-#📬 Connect With Me
+# 📬 Connect With Me
 
 Want a custom automation or consultancy? Message Samia!
  — free initial guidance available.
