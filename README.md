@@ -83,6 +83,12 @@ Want a custom automation or consultancy? Message Samia!
 
 ### Email : samiaxai@gmail.com
 
+### Linkedin : https://www.linkedin.com/in/samia-israr
+
+### Instagram : https://www.instagram.com/samia_.israr
+
+
+
 Made with ❤️ by Samia Israr.
 
 
