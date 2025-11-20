@@ -46,3 +46,15 @@ The goal is to showcase automation logic and real-world workflow design while ke
 . Environment-based API key handling
 
 . Measures to reduce hallucination and unsafe outputs
+
+
+# 📊 Observability & Monitoring
+
+.  Logging points & structured execution logs
+
+.  Error branches with alerting (email / WhatsApp / Discord)
+
+.  Execution reports and run-history checks
+
+.  Fail-safe fallbacks and human handoff triggers
+
